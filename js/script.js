@@ -1,4 +1,4 @@
- fetch("./../bancoDados.json").then(response => response.json()).then(data => {
+ fetch("https://newsapi.org/v2/everything?q=brasil&from=2025-10-27&sortBy=publishedAt&apiKey=366a4893cc3440b486f45b01e7fe90a5").then(response => response.json()).then(data => {
     //const noticiaUrl= 'https://exemplo.com/noticia2';
     //const artigo= data.articles.find((article) => article.url === noticiaUrl);
     //console.log(artigo);
