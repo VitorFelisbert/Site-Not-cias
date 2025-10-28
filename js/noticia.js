@@ -6,7 +6,7 @@ fetch("./../bancoDados.json").then(response => response.json()).then(data => {
     const noticiaUrl= urlNoticia;
     const artigo= data.articles.find((article) => article.url === noticiaUrl);
     document.querySelector("#titulo").innerHTML=artigo.title;
-    document.querySelector("#author").innerHTML=artigo.author;
+    document.querySelector("#autor").innerHTML=artigo.author;
     document.querySelector("#imagem").src=artigo.urlToImage;
     document.querySelector("#conteudo").innerHTML=artigo.description;
 
