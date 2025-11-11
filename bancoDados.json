@@ -1,19 +1,513 @@
- {
+{
   "status": "ok",
-  "totalResults": 22081,
+  "totalResults": 870,
   "articles": [
     {
       "source": {
-        "id": "marca",
-        "name": "Marca"
+        "id": null,
+        "name": "Noticiabrasil.net.br"
       },
-      "author": "Dídac Piferrer",
-      "title": "Muere la influencer Luanna Araújo junto a su prometido en su 29 cumpleaños",
-      "description": "Su novio y un amigo también pierden la vida en la celebración",
-      "url": "https://www.marca.com/tiramillas/sociedad/2025/10/06/muere-influencer-luanna-araujo-prometido-29-cumpleanos.html",
-      "urlToImage": "https://e01-xlk-ue-marca.uecdn.es/files/article_main_microformat/uploads/2025/10/06/68e389b95d681.jpeg",
-      "publishedAt": "2025-10-06T09:24:05Z",
-      "content": "La influencer Luanna Araújo ha muerto mientras celebraba su 29 cumpleaños en un fatídico choque en la carretera. La brasileña perdió la vida junto a su prometido, Korbinian Andreas Dengler, y a un am… [+1608 chars]"
+      "author": "Sputnik Brasil",
+      "title": "Decisão da União Europeia de restringir a emissão de vistos a russos é discriminatória",
+      "description": "A Missão Permanente da Rússia na União Europeia classificou, nesta segunda-feira (10), que a decisão dos países do bloco de restringir a emissão de vistos a russos é discriminatória.",
+      "url": "https://noticiabrasil.net.br/20251110/decisao-da-uniao-europeia-de-restringir-a-emissao-de-vistos-a-russos-e-discriminatoria-45064580.html",
+      "urlToImage": "https://cdn.noticiabrasil.net.br/images/sharing/article/por/45064580.jpg?450646971762814261",
+      "publishedAt": "2025-11-10T22:37:40Z",
+      "content": "Siga a Sputnik Brasil e tenha acesso a conteúdos exclusivos no nosso canal no Telegram.\r\nJá que a Sputnik está bloqueada em alguns países, por aqui você consegue baixar o nosso aplicativo para celula… [+24 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Www.abc.es"
+      },
+      "author": "(abc)",
+      "title": "Antonio Álvarez del Pino, cartelista del 'Sevilla eucarística' 2026",
+      "description": "El pintor Antonio Álvarez del Pino ha sido elegido para realizar el cartel «Sevilla Eucarística 2026» . La designación ha tenido lugar este lunes por la Sección de Hermandades Sacramentales del Consejo General de Hermandades y Cofradías, con el conocimiento d…",
+      "url": "https://www.abc.es/sevilla/pasionensevilla/noticias-semana-santa-sevilla/antonio-alvarez-pino-cartelista-sevilla-eucaristica-2026-20251110232918-nts.html",
+      "urlToImage": "https://s2.abcstatics.com/abc/www/multimedia/sevilla/2025/11/10/cartelista-sacramental-consejo-U68034652381SNe-1024x512@diario_abc.jpeg",
+      "publishedAt": "2025-11-10T22:29:18Z",
+      "content": "El pintor Antonio Álvarez del Pino ha sido elegido para realizar el cartel «Sevilla Eucarística 2026». La designación ha tenido lugar este lunes por la Sección de Hermandades Sacramentales del Consej… [+4168 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Diariodocentrodomundo.com.br"
+      },
+      "author": "Diario do Centro do Mundo",
+      "title": "O motivo que faz o Sul do Brasil ser a região com maior risco de tornados no país",
+      "description": "Pesquisadores afirmam que o Sul do Brasil concentra as condições atmosféricas mais favoráveis à formação de tornados. O fenômeno decorre da interação entre o transporte de umidade vindo da Amazônia, o avanço de massas de ar frio oriundas da Argentina e o cont…",
+      "url": "https://www.diariodocentrodomundo.com.br/o-motivo-que-faz-o-sul-do-brasil-ser-a-regiao-com-maior-risco-de-tornados-no-pais/",
+      "urlToImage": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2025/11/capturar.webp",
+      "publishedAt": "2025-11-10T22:26:48Z",
+      "content": "Ciclone. Foto: Divulgação\r\nPesquisadores afirmam que o Sul do Brasil concentra as condições atmosféricas mais favoráveis à formação de tornados. O fenômeno decorre da interação entre o transporte de … [+2559 chars]"
+    },
+    {
+      "source": {
+        "id": "info-money",
+        "name": "InfoMoney"
+      },
+      "author": "Lara Rizério",
+      "title": "MBRF: lucro cai para R$ 94 mi no 3º tri, mas volume vendido é histórico e cresce 3,7%",
+      "description": "Apesar das restrições pela gripe aviária, no primeiro balanço após a criação da MBRF, a companhia atingiu seu maior volume histórico\nThe post MBRF: lucro cai para R$ 94 mi no 3º tri, mas volume vendido é histórico e cresce 3,7% appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/mercados/mbrf-mbrf3-resultados-terceiro-trimestre-2025/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2025/06/brf-marfrig-divulgacao-01.jpg?quality=70",
+      "publishedAt": "2025-11-10T22:24:37Z",
+      "content": "(Reuters) A MBRF (MBRF3), empresa de alimentos formada pela fusão da Marfrig com a BRF, anunciou nesta segunda-feira um lucro líquido de R$ 94 milhões no terceiro trimestre, queda de 62% na comparaçã… [+1260 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ig.com.br"
+      },
+      "author": "Pedro Gabriel, Pedro Gabriel",
+      "title": "Beca Milano anuncia fim do casamento com Fernando Pelégio",
+      "description": "A confeiteira de 37 anos e o empresário, ex-diretor artístico do SBT, de 62, estavam juntos há sete anos",
+      "url": "https://gente.ig.com.br/celebridades/2025-11-10/beca-milano-anuncia-fim-do-casamento-com-fernando-pelegio-apos-sete-anos.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/dh/wk/4r/dhwk4rmn28ljhncfomev2zc9h.jpg",
+      "publishedAt": "2025-11-10T22:24:11Z",
+      "content": "Beca Milano, jurada do Bake Off Brasil, anunciou o fim do casamento com Fernando Pelégio nesta segunda-feira (10). A confeiteira de 37 anos e o empresário, ex-diretor artístico do SBT, de 62, estavam… [+1669 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Terra.com.br"
+      },
+      "author": "Reuters",
+      "title": "Lucro da MBRF cai para R$94 mi no 3º tri, volume vendido é histórico e cresce 3,7%",
+      "description": "A MBRF, empresa de alimentos formada pela fusão da Marfrig com a BRF, anunciou nesta segunda- ...",
+      "url": "https://www.terra.com.br/economia/lucro-da-mbrf-cai-para-r94-mi-no-3-tri-volume-vendido-e-historico-e-cresce-37,7da1070ef10c0774a524aaaa2828b603nixu7i7d.html",
+      "urlToImage": "https://s1.trrsf.com/update-1698692222/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2025-11-10T22:20:46Z",
+      "content": "A MBRF, empresa de alimentos formada pela fusão da Marfrig com a BRF, anunciou nesta segunda-feira um lucro líquido de R$94 milhões no terceiro trimestre, queda de 62% na comparação com o mesmo perío… [+1201 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abril.com.br"
+      },
+      "author": "Marcela Rahal",
+      "title": "Na contramão da oposição, o recado de Mourão sobre o comando petista da CPI do Crime Organizado",
+      "description": "“A oposição tem alguma preocupação, mas eu, particularmente, não vejo motivo para isso\", afirmou o senador",
+      "url": "https://veja.abril.com.br/politica/na-contramao-da-oposicao-o-recado-de-mourao-sobre-o-comando-petista-da-cpi-do-crime-organizado/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/07/mourao.png?resize=1080,565&crop=1",
+      "publishedAt": "2025-11-10T22:20:45Z",
+      "content": "Super BlackFriday: Assine VEJA a partir de 7,99O senador Hamilton Mourão (Republicanos-RS) afirmou que a CPI do Crime Organizado tem potencial para produzir resultados concretos, desde que não se tra… [+2628 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abril.com.br"
+      },
+      "author": "Ricardo Ferraz",
+      "title": "O que explica a resistência ao fundo de florestas tropicais, segundo presidente da COP",
+      "description": "Para André Correa do Lago, países ricos ainda estão desconfiados de que fundo também pode beneficiá-los",
+      "url": "https://veja.abril.com.br/economia/o-que-explica-a-resistencia-ao-fundo-de-florestas-tropicais-segundo-presidente-da-cop/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/11/54914481718_e750a73289_o.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2025-11-10T22:18:18Z",
+      "content": "ASSINE VEJA NEGÓCIOS10.11.2025 - Belem - Embaixador André Corrêa do Lago, presidente da COP 30, participa da cerimonia de abertura a 30ª Conferência das Partes (COP30). \r\n (Alex Ferro/COP30/Divulgaçã… [+2746 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Catracalivre.com.br"
+      },
+      "author": "Carlos Emanoel Freires dos Santos",
+      "title": "A árvore que pode ser cultivada em vaso e perfuma todo o jardim",
+      "description": "Planta nativa floresce abundante nos meses quentes perfumando varanda inteira. Atrai mariposas e borboletas trazendo vida para espaços urbanos compactos.\nO post A árvore que pode ser cultivada em vaso e perfuma todo o jardim apareceu primeiro em Catraca Livre.",
+      "url": "https://catracalivre.com.br/noticias/a-arvore-que-pode-ser-cultivada-em-vaso-e-perfuma-todo-o-jardim/",
+      "urlToImage": "https://i.catracalivre.com.br/_gjZu8tYXjHt4hq4ufx3rngFTrg=/1200x630/smart/filters:quality(60)/catracalivre.com.br/wp-content/uploads/2025/11/freepik-the-style-is-candid-image-photography-with-natural-93051-scaled-e1762742469524.jpeg",
+      "publishedAt": "2025-11-10T22:18:12Z",
+      "content": "Nos últimos anos, o cultivo de plantas aromáticas em pequenos espaços urbanos tem ganhado popularidade entre os moradores de apartamentos e casas com varandas, e o Manacá (Brunfelsia australis) desta… [+3106 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Viomundo.com.br"
+      },
+      "author": "Redação",
+      "title": "Rasgaram o projeto antifacção original e transformaram em reforma da Lei Antiterrorismo, diz Sarrubbo",
+      "description": "Em entrevista a Heloisa Villela\nO post Rasgaram o projeto antifacção original e transformaram em reforma da Lei Antiterrorismo, diz Sarrubbo apareceu primeiro em Viomundo.",
+      "url": "https://www.viomundo.com.br/politica/rasgaram-o-projeto-antifaccao-original-e-transformaram-em-reforma-da-lei-antiterrorismo-diz-sarrubbo.html",
+      "urlToImage": "https://www.viomundo.com.br/wp-content/uploads/2025/11/18062024-pzzb4879-960x540-1.webp",
+      "publishedAt": "2025-11-10T22:15:58Z",
+      "content": "Entrevista: Rasgaram o projeto original e transformaram em reforma da Lei Antiterrorismo, diz Sarrubbo\r\nPara o secretário nacional Mário Sarrubbo, alterações feitas no projeto antifacção comprometem … [+14256 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
+      "title": "Hidrovias do Brasil reverte prejuízo e lucra R$ 116 milhões no 3º trimestre",
+      "description": "A Hidrovias movimentou 5,18 milhões toneladas no trimestre, 30% acima do reportado um ano antes, com destaque para a navegação normalizada e recuperação de volume de minério de ferro no Corredor Sul",
+      "url": "https://valor.globo.com/empresas/noticia/2025/11/10/hidrovias-do-brasil-reverte-prejuzo-e-lucra-r-116-milhes-no-3-trimestre.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/5WKogH4x0nQMJYc7frhY0amxUrg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2023/J/N/mXFiEYSAqN5VDW6WPqVA/aquarius2.jpg",
+      "publishedAt": "2025-11-10T22:15:47Z",
+      "content": "A Hidrovias do Brasil encerrou o segundo trimestre deste ano com lucro líquido de R$ 116 milhões, revertendo prejuízo de R$ 47 milhões obtido no mesmo período em 2024. Entre julho e setembro, a compa… [+1488 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ig.com.br"
+      },
+      "author": "Marco Siqueira, Marco Siqueira",
+      "title": "Acidente de Gabriel Bortoleto entre os mais assustadores da F1",
+      "description": "Acidente na corrida de sprint que marcou o GP do Brasil 2025 foi um dos mais impressionantes envolvendo pilotos brasileiros",
+      "url": "https://esporte.ig.com.br/jogoajogo/2025-11-10/acidente-de-bortoleto-entre-os-mais-impressionantes-da-f1.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/7k/1n/8i/7k1n8i94b7k3saheklbqifo2d.jpg",
+      "publishedAt": "2025-11-10T22:15:27Z",
+      "content": "O acidente de Gabriel Bortoletto na corrida de sprint, no último sábado (8), ainda é a lembrança mais forte do  GP do Brasil 2025. E a cena ainda vai ficar muito tempo na memória dos torcedores e nos… [+3828 chars]"
+    },
+    {
+      "source": {
+        "id": "el-mundo",
+        "name": "El Mundo"
+      },
+      "author": "Alfredo Relaño",
+      "title": "De campeón del mundo a 'ladrón' de joyas: la esperpéntica historia de Bobby Moore, el 'Sir' inglés que anuló a Pelé",
+      "description": "\"¡Sólo mide 14 centímetros, sólo pesa ocho libras, pero significa que somos campeones del mundo!\", clamaba el célebre locutor de la BBC Kenneth Wolstenholme mientras...",
+      "url": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2025/11/10/690cae3be4d4d8560f8b45af.html",
+      "urlToImage": "https://phantom-elmundo.uecdn.es/a11a46739cefdabe795e6fd5547db62a/crop/0x15/2480x1669/resize/1200/f/webp/assets/multimedia/imagenes/2025/11/06/17624517227449.jpg",
+      "publishedAt": "2025-11-10T22:14:21Z",
+      "content": "\"¡Sólo mide 14 centímetros, sólo pesa ocho libras, pero significa que somos campeones del mundo!\", clamaba el célebre locutor de la BBC Kenneth Wolstenholme mientras un muchacho rubio elevaba al ciel… [+10831 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Uol.com.br"
+      },
+      "author": "Redação",
+      "title": "Sony avalia sistema de compra única para jogos entre PC e PS5",
+      "description": "Vazador encontra evidências de integração entre plataformas em uma possível atualização da PlayStation Store.\nThe post Sony avalia sistema de compra única para jogos entre PC e PS5 appeared first on Giz Brasil.",
+      "url": "https://gizbr.uol.com.br/cross-buy-ps5-pc-sony-2/",
+      "urlToImage": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/11/ps5-cross-buy.jpg",
+      "publishedAt": "2025-11-10T22:13:37Z",
+      "content": "A Sony está analisando a possibilidade de implementar um sistema de compra única (cross-buy) que permitiria aos jogadores comprar jogos compatíveis tanto com PC quanto com PlayStation 5.\r\nAs informaç… [+2956 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
+      "title": "Controlada da ArcelorMittal Brasil protocola na CVM pedido de OPA para ações da Tekno",
+      "description": "A Tekno disse, nesta segunda-feira (10), que sua c...",
+      "url": "https://valor.globo.com/empresas/noticia/2025/11/10/controlada-da-arcelormittal-brasil-protocola-na-cvm-pedido-de-opa-para-aes-da-tekno.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/gGOX7p_jWodrDT_ahwmoORQ1cYo=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2025/5/B/0gPn4LRLiAmOmt2Myq7A/tekno.jpg",
+      "publishedAt": "2025-11-10T22:11:01Z",
+      "content": "A Tekno disse, nesta segunda-feira (10), que sua controladora, Dânica Soluções Termoisolantes Integradas, em recuperação judicial, protocolou, nesta segunda-feira (10), perante a Comissão de Valores … [+1681 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Whiplash.net"
+      },
+      "author": "Reverbera Music",
+      "title": "Torture Squad lança videoclipe de \"Magnum Chaos\"",
+      "description": "No dia em que o mundo discute o futuro do planeta, a banda une o ativismo e o metal, e lança uma música que traduz em peso e urgência o clamor por sobrevivência.",
+      "url": "https://whiplash.net/materias/news_677/374149-torturesquad.html",
+      "urlToImage": "https://img.youtube.com/vi/K4cXGsxUIck/hqdefault.jpg",
+      "publishedAt": "2025-11-10T22:10:00Z",
+      "content": "No dia em que o mundo discute o futuro do planeta, a banda une o ativismo e o metal, e lança uma música que traduz em peso e urgência o mesmo clamor por sobrevivência.\r\nTorture Squad, uma das grandes… [+3714 chars]"
+    },
+    {
+      "source": {
+        "id": "info-money",
+        "name": "InfoMoney"
+      },
+      "author": "Lara Rizério",
+      "title": "Tekno (TKNO3) diz que controladora entrou com pedido para tirar empresa da Bolsa",
+      "description": "A controladora da Tekno é a Dânica Soluções Termoisolantes Integradas, uma controlada do grupo ArcelorMittal Brasil\nThe post Tekno (TKNO3) diz que controladora entrou com pedido para tirar empresa da Bolsa appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/mercados/tekno-tkno3-diz-que-controladora-entrou-com-pedido-para-tirar-empresa-da-bolsa/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2025/11/Imagem-quem-somos.jpg?quality=70",
+      "publishedAt": "2025-11-10T22:09:54Z",
+      "content": "© 2000-2025 InfoMoney. Todos os direitos reservados.\r\n O InfoMoney preza a qualidade da informação e atesta a apuração de todo o conteúdo produzido por sua\r\n equipe,\r\n ressaltando, no entanto, que nã… [+1238 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": "Agência O Globo",
+      "title": "Com falência da Oi, como ficam as empresas de manutenção de rede e call center?",
+      "description": "Justiça aceitou processo de recuperação judicial da Serede e da Tahto nesta segunda-feira \nThe post Com falência da Oi, como ficam as empresas de manutenção de rede e call center? appeared first on InfoMoney.",
+      "url": "https://oglobo.globo.com/economia/negocios/noticia/2025/11/10/com-falencia-da-oi-como-ficam-as-empresas-de-manutencao-de-rede-e-call-center.ghtml",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2025/11/Captura-de-tela-2025-11-10-190549.png?quality=70",
+      "publishedAt": "2025-11-10T22:07:46Z",
+      "content": "Em decisão paralela em que determinou a falência da Oi, a juíza Simone Gastesi , da 7ª Vara Empresarial, aceitou o processo de recuperação judicial da Serviços de Rede (Serede) e Brasil Telecom Call … [+1756 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Uol.com.br"
+      },
+      "author": "Alexandre Matias",
+      "title": null,
+      "description": "Em sua quarta vinda ao Brasil, o ícone indie Yo La Tengo marcou duas apresentações distintas em São Paulo. A primeira delas aconteceu neste domingo (9), quando o grupo esteve na programação do Balaclava Festival deste ano, que ainda reuniu artistas nac",
+      "url": "https://www.uol.com.br/toca/noticias/2025/11/10/banda-emblematica-do-indie-rock-yo-la-tengo-sauda-fas-com-delirio-eletrico.htm",
+      "urlToImage": "https://conteudo.imguol.com.br/c/toca/32/2025/11/10/trio-do-yo-la-tengo-no-balaclava-fest-2025-1762789468769_v2_615x300.jpg",
+      "publishedAt": "2025-11-10T22:05:16Z",
+      "content": "Ira Kaplan, membro do Yo La Tengo; banda ainda faz show no Cine Joia nesta segunda (10) Imagem: Reprodução/Instagram @mayaragiacominiphoto @camilafcara @balaclavarecords\r\nIsso não quer dizer que o sh… [+1807 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Uol.com.br"
+      },
+      "author": "Clara Ribeiro",
+      "title": null,
+      "description": "Nos próximos capítulos de \"Três Graças\", dois personagens se encontrarão com Rogério (Eduardo Moscovis), mas de formas diferentes, afinal, o marido de Arminda (Grazi Massafera) ainda é dado como morto.Quer ficar por dentro de tudo o que rola",
+      "url": "https://www.uol.com.br/splash/noticias/2025/11/10/rogerio-josefa-e-ferette-tres-gracas.htm",
+      "urlToImage": "https://conteudo.imguol.com.br/c/splash/e8/2025/11/07/arminda-grazi-massafera-e-rogerio-eduardo-moscovis-em-tres-gracas-1762542911195_v2_615x300.jpg",
+      "publishedAt": "2025-11-10T22:05:16Z",
+      "content": "A conversa acontece na casa de Ferette e Zenilda (Andréia Horta), com Arminda presente. Ela se queixa do alto valor de impostos que o marido terá de pagar para trazer a escultura - as Três Graças - a… [+903 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Noticiabrasil.net.br"
+      },
+      "author": "Sputnik Brasil",
+      "title": "'Presente de Natal a facções': Ministério da Justiça critica parecer de Derrite em PL antifacção",
+      "description": "O secretário Nacional de Assuntos Legislativos do Ministério da Justiça e Segurança Pública, Marivaldo Pereira, afirmou que o parecer apresentado pelo deputado federal Guilherme Derrite (PP-SP) sobre o projeto de lei antifacção é um \"presente de Natal aos líd…",
+      "url": "https://noticiabrasil.net.br/20251110/presente-de-natal-a-faccoes-ministerio-da-justica-critica-parecer-de-derrite-em-pl-antifaccao-45062980.html",
+      "urlToImage": "https://cdn.noticiabrasil.net.br/images/sharing/article/por/45062980.jpg?450632681762812277",
+      "publishedAt": "2025-11-10T22:04:36Z",
+      "content": "Siga a Sputnik Brasil e tenha acesso a conteúdos exclusivos no nosso canal no Telegram.\r\nJá que a Sputnik está bloqueada em alguns países, por aqui você consegue baixar o nosso aplicativo para celula… [+24 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Congressoemfoco.com.br"
+      },
+      "author": "",
+      "title": "Crise pré-eleitoral: entenda a disputa interna do PL em Santa Catarina",
+      "description": "Entrada de Carlos no desenho da chapa ao Senado dividiu o partido dentro da principal fortaleza eleitoral da família Bolsonaro.",
+      "url": "https://www.congressoemfoco.com.br/noticia/113732/crise-pre-eleitoral-entenda-a-disputa-interna-do-pl-em-santa-catarina",
+      "urlToImage": "https://static.congressoemfoco.com.br/CONG_REDES_RETANGULAR/2025/11/10/0f7a82_CONG_REDES_RETANGULAR_MANUAL_CAPASSITE361.jpg",
+      "publishedAt": "2025-11-10T22:03:58Z",
+      "content": "Fortaleza eleitoral consolidada da família Bolsonaro, Santa Catarina se tornou um ambiente de disputa interna dentro do próprio campo conservador. Faltando menos de um ano para o início do período el… [+5703 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jbox.com.br"
+      },
+      "author": "Rafael Jiback",
+      "title": "‘My Hero Academia’ chega ao Adult Swim em dezembro",
+      "description": "Animê deve ocupar um dos horários reservados atualmente a 'Dragon Ball Z' na programação.",
+      "url": "https://www.jbox.com.br/2025/11/10/my-hero-academia-chega-ao-adult-swim-em-dezembro/",
+      "urlToImage": "https://www.jbox.com.br/wp/wp-content/uploads/2024/03/hero-academia-t1-destacada.jpg",
+      "publishedAt": "2025-11-10T22:01:03Z",
+      "content": "Já era algo esperado, mas demorou um bocado. Se as coisas não mudarem daqui até lá, My Hero Academia deve estrear na programação do canal Adult Swim no dia 1º de dezembro, sendo exibido de segunda a … [+2070 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abril.com.br"
+      },
+      "author": "Bruno Garattoni",
+      "title": "Duas crianças, um ator veterano e um helicóptero mortal: o pior acidente da história do cinema",
+      "description": "Ignorando regras de segurança e os alertas de sua própria produção, John Landis viu três pessoas perderem a vida para fazer seu filme",
+      "url": "https://super.abril.com.br/mundo-estranho/duas-criancas-um-ator-veterano-e-um-helicoptero-mortal-o-pior-acidente-da-historia-do-cinema/",
+      "urlToImage": "https://super.abril.com.br/wp-content/uploads/2025/11/1111-mundo-estranho-historia-cinema-layout_site.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2025-11-10T22:00:29Z",
+      "content": "Super Black Friday: Revista em Casa por 9,90 (Wikimedia Commons/Reprodução)\r\nContinua após publicidade\r\nJá passava das duas da madrugada quando o veterano ator Vic Morrow se preparava para gravar o c… [+11605 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Metropoles.com"
+      },
+      "author": "Rener Lopes",
+      "title": "Copa Centro-Oeste de Futsal: assista a Fidas Futsal/DF x União EC/TO",
+      "description": "Equipes entram em quadra nesta segunda-feira (10/11), às 20h, pela segunda rodada da Copa Centro-Oeste de Futsal",
+      "url": "https://www.metropoles.com/esportes/copa-centro-oeste-de-futsal-assista-fidas-futsal-df-x-uniao-ec-to",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/11/07161839/copacentro-oeste.jpg",
+      "publishedAt": "2025-11-10T22:00:12Z",
+      "content": "OMetrópoles Esportes transmitirá, ao vivo e com imagens, pelo YouTube, o jogo entre Fidas Futsal/DF e União EC/TO, válido pela segunda rodada da Copa Centro-Oeste de Futsal. A partida acontecerá no G… [+561 chars]"
+    },
+    {
+      "source": {
+        "id": "info-money",
+        "name": "InfoMoney"
+      },
+      "author": "Lara Rizério",
+      "title": "Ibovespa supera 155 mil pontos pela 1ª vez com embalo externo e tem 14ª alta seguida",
+      "description": "O volume financeiro no pregão desta segunda-feira somou R$ 22,1 bilhões\nThe post Ibovespa supera 155 mil pontos pela 1ª vez com embalo externo e tem 14ª alta seguida appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/mercados/ibovespa-supera-155-mil-pontos-pela-1a-vez-com-embalo-externo-e-tem-14a-alta-seguida/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2019/06/acoes-bolsa-analista-indices.jpg?quality=70",
+      "publishedAt": "2025-11-10T21:57:29Z",
+      "content": "SÃO PAULO (Reuters) O Ibovespa fechou em alta nesta segunda-feira, ultrapassando os 155 mil pontos pela primeira vez, embalado pelo viés positivo de praças acionárias no exterior em meio a expectativ… [+5500 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
+      "title": "Mauro Vieira participa de encontro do G7 de olho em possível reunião com Marco Rubio",
+      "description": "A conversa dos dois ainda não foi oficializada entre as diplomacias de ambos lados",
+      "url": "https://valor.globo.com/brasil/noticia/2025/11/10/mauro-vieira-participa-de-encontro-do-g7-de-olho-em-possvel-reunio-com-marco-rubio.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/rChPJ4Y6RK_AGNBlKCR1Uydqh-c=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2025/D/r/Ksog2NTeK88gRJ15d2bg/mauro-vieira-comissao-camara-2.jpg",
+      "publishedAt": "2025-11-10T21:55:52Z",
+      "content": "O ministro das Relações Exteriores, Mauro Vieira, está a caminho do Canadá, onde participará, amanhã, de uma reunião ministerial do G7, como é conhecida a organização que reúne as maiores economias d… [+1708 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Terra.com.br"
+      },
+      "author": "Esporte News Mundo",
+      "title": "Treinador do Cruzeiro é indicado ao premio de melhor do mundo",
+      "description": "O técnico foi indicado ao prêmio de melhor técnico de clubes do mundo pela Federação Internacional de História e Estatísticas do Futebol (IFFHS).",
+      "url": "https://www.terra.com.br/esportes/cruzeiro/treinador-do-cruzeiro-e-indicado-ao-premio-de-melhor-do-mundo,da1de1d5d6f7316f66903d6597dc640fwezpnvli.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/10/2008542135-img3546.jpeg",
+      "publishedAt": "2025-11-10T21:54:46Z",
+      "content": "O treinador Jonas Urias, técnico da equipe feminina do Cruzeiro, foi indicado ao prêmio de melhor técnico de clubes do mundo e marcou seu nome na lista da Federação Internacional de História e Estatí… [+1055 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "O erro do IBGE que mudou o signo da maioria dos brasileiros — e foi tirado do ar após alerta da BBC",
+      "description": "Site Nomes no Brasil indicava que a maioria dos brasileiros seria do signo de Aquário, dado que foi questionado pela BBC News Brasil. IBGE retirou informação do ar após questionamento e confirmou erro. Entenda o caso.",
+      "url": "https://www.bbc.com/portuguese/articles/crexpezeqyjo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/0253/live/e4748d20-be75-11f0-ae46-bd64331f0fd4.jpg",
+      "publishedAt": "2025-11-10T21:54:30Z",
+      "content": "Crédito, Getty Images/Agência Brasil\r\nLegenda da foto, Site 'Nomes no Brasil' indicava que a maioria dos brasileiros seria do signo de Aquário, dado que foi questionado pela BBC News Brasil\r\nArticle … [+9758 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Noticiabrasil.net.br"
+      },
+      "author": "Melissa Rocha",
+      "title": "Análise: fragmentação na América Latina impede união em defesa da Venezuela diante ameaças dos EUA",
+      "description": "Em entrevista à Sputnik Brasil, especialistas analisam o teor cauteloso de Lula ao criticar veladamente os ataques dos EUA a embarcações venezuelanas no Caribe.",
+      "url": "https://noticiabrasil.net.br/20251110/analise-fragmentacao-na-america-latina-impede-uniao-em-defesa-da-venezuela-diante-ameacas-dos-eua-45057392.html",
+      "urlToImage": "https://cdn.noticiabrasil.net.br/images/sharing/article/por/45057392.jpg?450589911762811425",
+      "publishedAt": "2025-11-10T21:50:00Z",
+      "content": "\"Não há a menor condição hoje de se pensar seriamente a integração regional, muito menos a inclusão da Venezuela. Isso é uma ideia que ficará arquivada aguardando melhor oportunidade. O tema integraç… [+136 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Amodireito.com.br"
+      },
+      "author": "amoDireito.com.br",
+      "title": "Taxista de 77 anos participa do Enem com a neta depois de concluir ensino médio",
+      "description": "Enem é a próxima etapa para Elifas Levi Rodrigues realizar o sonho de cursar psicologia e aprender a cuidar da esposa",
+      "url": "https://www.amodireito.com.br/2025/11/taxista-77-anos-participa-enem-neta-concluir-ensino-medio.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpb78vWf2RsKm_WypBpm0RW7pwlSkw7SHCUIwKzhauo9KWRHMQlYxn8-U78p_bXWhnXenkEm3yx-hSil8IotYo763OLqV5UqKRXbzHy6gfEBX_WoZXa_LbdRK6tSbd5gGnuDX1bDtWsnobS2dweS3VqksGRbJd6qx8GjJqwWlPXlPmEPZVXnpE_daxlmE/s16000/taxista-77-anos-participa-enem-neta-concluir-ensino-medio.webp",
+      "publishedAt": "2025-11-10T21:49:00Z",
+      "content": "Via @maisgoias | Quando decidiu voltar a estudar para concluir o ensino médio, o taxista Elifas Levi Rodrigues, 77, sabia que aquele seria o primeiro passo para alcançar um sonho de muito tempo: curs… [+4082 chars]"
+    },
+    {
+      "source": {
+        "id": "info-money",
+        "name": "InfoMoney"
+      },
+      "author": "Estadão Conteúdo",
+      "title": "Lula regulamenta novas regras do vale-refeição e alimentação nesta terça; o que muda?",
+      "description": "Decreto define teto para taxa de desconto e reduz prazo de repasse para lojistas, enquanto portabilidade do vale-alimentação fica de fora por questões técnicas\nThe post Lula regulamenta novas regras do vale-refeição e alimentação nesta terça; o que muda? appe…",
+      "url": "https://www.infomoney.com.br/minhas-financas/lula-regulamenta-novas-regras-do-vale-refeicao-e-alimentacao-nesta-terca-o-que-muda/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2022/09/pexels-andrea-piacquadio-3907315.jpg?quality=70",
+      "publishedAt": "2025-11-10T21:48:15Z",
+      "content": "O decreto de regulamentação do Programa de Alimentação do Trabalhador (PAT) deverá limitar a taxa de desconto e encurtar o tempo de repasse dos pagamentos para lojistas nas operações com vale-aliment… [+5362 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Metropoles.com"
+      },
+      "author": "Fábia Oliveira",
+      "title": "Datena expõe “bronca” de Nelson Rubens ao vivo e dispara: “Chato”",
+      "description": "O apresentador José Luiz Datena mandou um recado para Nelson Rubens durante participação no A Tarde é Sua desta segunda-feira (10/11); veja",
+      "url": "https://www.metropoles.com/colunas/fabia-oliveira/datena-expoe-bronca-de-nelson-rubens-ao-vivo-e-dispara-chato",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/11/10183952/datena-nelson-rubens.jpg",
+      "publishedAt": "2025-11-10T21:48:13Z",
+      "content": "O apresentador José Luiz Datena, que comanda o Brasil do Povo na RedeTV!, mandou um recado ao colega de emissora, o jornalista Nelson Rubens, durante uma participação no programa A Tarde é Sua, coman… [+1509 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Metropoles.com"
+      },
+      "author": "Giovanna Estrela",
+      "title": "Saiba se será possível observar o cometa 3I/ATLAS no Brasil",
+      "description": "Cometa 3I/ATLAS reapareceu após semanas oculto pelo Sol e poderá ser observado com equipamentos nas madrugadas de dezembro",
+      "url": "https://www.metropoles.com/brasil/saiba-se-sera-possivel-observar-o-cometa-3i-atlas-no-brasil",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/11/07104528/3i-atlas-1.jpg",
+      "publishedAt": "2025-11-10T21:47:25Z",
+      "content": "O cometa 3I/ATLAS voltou a ser visível por telescópios em 31 de outubro, após passar semanas escondido atrás do Sol. O objeto interestelar deve atingir seu ponto de maior aproximação com o planeta em… [+3266 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Terra.com.br"
+      },
+      "author": "Estadão Conteúdo",
+      "title": "TSE retoma nesta terça-feira julgamento que pode cassar governo de Roraima",
+      "description": "Tribunal Superior Eleitoral retoma o julgamento, que havia sido suspenso em agosto logo após o voto da relatora, ministra Isabel Gallotti",
+      "url": "https://www.terra.com.br/noticias/brasil/politica/tse-retoma-nesta-terca-feira-julgamento-que-pode-cassar-governo-de-roraima,4729098fb1dd464e4af5020f72e7f618x477eu9g.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/10/1931966656-rrxetu6isfhjfelv4wrvnawjei.jpg",
+      "publishedAt": "2025-11-10T21:46:35Z",
+      "content": "O Tribunal Superior Eleitoral (TSE) retoma nesta terça-feira, 11, o julgamento que pode cassar o mandato do governador de Roraima, Antônio Denarium (PP), acusado de abuso de poder político e econômic… [+1506 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Terra.com.br"
+      },
+      "author": "Terra Ofertas",
+      "title": "Fralda Pampers Pants Ajuste Total G (144 fraldas) – Aproveite 6% de desconto!",
+      "description": "A oferta é por tempo limitado e o produto é vendido e entregue pela Pampers/Amazon, com estoque sujeito à variação.",
+      "url": "https://www.terra.com.br/ofertas/fralda-pampers-pants-ajuste-total-g-144-fraldas-aproveite-6-de-desconto,1a066d8b6f3cc05ded8d9f7704c0c86b2pomq90h.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/10/71fwful3nkl-_ac_sl1200_-qy4gbpjmpe0l.jpg",
+      "publishedAt": "2025-11-10T21:46:01Z",
+      "content": "Se você está buscando uma fralda tipo calça de alto desempenho — confortável, prática e com bom custo-benefício — este review da Fralda Pampers Pants Ajuste Total G – 144 unidades vai te ajudar a dec… [+6630 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nacion.com"
+      },
+      "author": "O Globo",
+      "title": "Expedición busca el paradero del explorador que inspiró a Indiana Jones, desaparecido hace 100 años en Latinoamérica",
+      "description": "Exploradores recorren 32.000 km por Sudamérica en busca de pistas sobre Percy Fawcett, desaparecido hace 100 años en Brasil mientras buscaba la Ciudad Z.",
+      "url": "https://www.nacion.com/viva/expedicion-busca-el-paradero-del-explorador-que/HGTYCXJMMJADHMXMCNOI5QQTNI/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/OBMSEWSMMREGRGBJ33MTYMRRJI.png?smart=true&auth=bdc2787eb203a255839068a6b21ec2200f3dd46bb2062ee25badc6a35716926c&width=1440",
+      "publishedAt": "2025-11-10T21:45:42Z",
+      "content": "Una nueva expedición suramericana busca resolver un misterio de hace un siglo. En 1925, el explorador británico Percy Harrison Fawcett se internó en el Mato Grosso, Brasil, con el objetivo de encontr… [+4920 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
+      "title": "PT retoma estratégia da PEC da blindagem para atacar parecer de Derrite sobre projeto antifacção",
+      "description": "Presidente do partido divulgará vídeo com críticas às mudanças feitas pelo deputado na proposta do governo",
+      "url": "https://valor.globo.com/politica/noticia/2025/11/10/pt-retoma-estrategia-da-pec-da-blindagem-para-atacar-parecer-de-derrite-sobre-projeto-antifaccao.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/r45nYCTGNYtXpql0m1H8l6xqpFg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2025/A/t/rJUycHSGmqpw5jkKBcTQ/edinho-silva.jpg",
+      "publishedAt": "2025-11-10T21:43:48Z",
+      "content": "O presidente do PT, Edinho Silva, vai publicar nas próximas horas nesta segunda-feira (10) um vídeo com críticas ao parecer do deputado Guilherme Derrite (PP-SP) sobre o projeto de lei sobre antifacç… [+4537 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abril.com.br"
+      },
+      "author": "Leticia Yamakami",
+      "title": "Ibovespa renova recorde com possível fim do shutdown nos EUA",
+      "description": "Senado americano aprovou uma etapa do processo para reabertura da máquina pública",
+      "url": "https://veja.abril.com.br/economia/ibovespa-renova-recorde-com-possivel-fim-do-shutdown-nos-eua/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/09/GettyImages-2233276070.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2025-11-10T21:41:54Z",
+      "content": "ASSINE VEJA NEGÓCIOSNova York (Gary Hershorn/Getty Images)\r\nContinua após publicidade\r\nO Ibovespa, principal índice da B3, encerrou o pregão em valorização de 0,77% nesta segunda-feira, 10, renovando… [+2297 chars]"
     },
     {
       "source": {
@@ -21,12 +515,779 @@
         "name": "Observador.pt"
       },
       "author": "Agência Lusa",
-      "title": "Afropsis: acesso à saúde mental em Portugal ainda é limitado",
-      "description": "O co-fundador da Afropsis diz que o preço dos cuidados em saúde mental \"é uma barreira efetiva\" para as comunidades africanas, que têm \"rendimentos médios mais baixos\".",
-      "url": "https://observador.pt/2025/10/06/acesso-a-saude-mental-para-comunidades-africanas-em-portugal-ainda-e-limitado-diz-afropsis/",
-      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A4096%3A2298%3Anowe%3A0%3A53%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2022%2F01%2F21121624%2FGettyImages-1090299180-scaled.jpg?layer=obstop:T",
-      "publishedAt": "2025-10-06T09:23:34Z",
-      "content": "O co-fundador da Afropsis, Henda Vieira-Lopes, alertou que barreiras culturais, financeiras e estruturais ainda limitam o acesso das comunidades africanas e afrodescendentes à saúde mental em Portuga… [+3429 chars]"
+      "title": "\"É quase inevitável que aquecimento global passe os 1,5ºC\"",
+      "description": "Presidente do IPCC diz que esta ultrapassagem \"se deve à insuficiência das ações climáticas nos últimos anos e ao consequente aumento contínuo das emissões de gases com efeito de estufa\".",
+      "url": "https://observador.pt/2025/11/10/ipcc-e-quase-inevitavel-que-aquecimento-global-ultrapasse-meta-dos-15oc/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1126%3Anowe%3A0%3A190%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2025%2F11%2F10182212%2F25244290.jpg?layer=obstop:T",
+      "publishedAt": "2025-11-10T21:40:44Z",
+      "content": "O presidente do Painel Intergovernamental sobre Alterações Climáticas (IPCC) considera “quase inevitável” que o aquecimento global ultrapasse o limite de 1,5 graus Celsius (°C) a curto prazo, uma met… [+2287 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Metropoles.com"
+      },
+      "author": "Pedro Ângelo Cantanhêde",
+      "title": "Fórmula 1 com estilo: looks de celebridades marcam o GP de São Paulo",
+      "description": "O Grande Prêmio de São Paulo reuniu celebridades e entusiastas da Fórmula 1 em dois dias de velocidade e estilo neste fim de semana",
+      "url": "https://www.metropoles.com/colunas/ilca-maria-estevao/formula-1-com-estilo-looks-de-celebridades-marcam-o-gp-de-sao-paulo",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/11/10174245/grande-premio-gp-de-sao-paulo-interlagos-formula-1-virginia-GettyImages-2245848098.jpg",
+      "publishedAt": "2025-11-10T21:38:23Z",
+      "content": "Um dos principais eventos esportivos do país aconteceu em Interlagos, nesse domingo (9/11). O fim de semana do Grande Prêmio de São Paulo reuniu entusiastas da Fórmula 1 que demonstraram, além da pai… [+2179 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tribuna.com.mx"
+      },
+      "author": "Jorge Mendivil",
+      "title": "Neymar hace 'berrinche' al ser sustituido y deja al Santos en puestos del descenso en el Brasileirao",
+      "description": "Neymar pudo haber firmado su salida del Santos en el Brasileirao, tras berrinche luego de ser sustituido en el partido contra el Flamengo",
+      "url": "https://www.tribuna.com.mx/deportes/2025/11/10/neymar-hace-berrinche-al-ser-sustituido-deja-al-santos-en-puestos-del-descenso-en-el-brasileirao-419058.html",
+      "urlToImage": "https://www.tribuna.com.mx/u/fotografias/m/2025/11/10/f1280x720-477200_608875_5050.jpg",
+      "publishedAt": "2025-11-10T21:38:00Z",
+      "content": "Rio de Janeiro, Brasil.- Tras los múltiples rumores que han indicado una salida prematura de Neymar del Santos, pareciera que el jugador acaba de firmar su sentencia, tras un berrinche al ser sustitu… [+1948 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Metropoles.com"
+      },
+      "author": "Luciano Arcoverde",
+      "title": "Beca Milano anuncia fim do casamento com ex-diretor do SBT após 7 anos",
+      "description": "Beca Milano, apresentadora do reality Bake Off Brasil, anunciou nesta segunda-feira (10/11) o término do relacionamento com Fernando Pelégio",
+      "url": "https://www.metropoles.com/celebridades/beca-milano-anuncia-fim-do-casamento-com-ex-diretor-do-sbt-apos-7-anos",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/11/10183216/beca-milano.jpg",
+      "publishedAt": "2025-11-10T21:37:18Z",
+      "content": "A confeiteira e ex-jurada do reality-show Bake Off Brasil Beca Milano anunciou nesta segunda-feira (10/11) o fim do casamento com Fernando Pelégio. A chef e o ex-diretor artístico do SBT fizeram o co… [+1413 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Diariodocentrodomundo.com.br"
+      },
+      "author": "Diario do Centro do Mundo",
+      "title": "STF invalida uso de provas da Odebrecht contra ex-primeira-dama do Peru",
+      "description": "O ministro Dias Toffoli, do Supremo Tribunal Federal (STF), anulou nesta segunda-feira (10) as provas da Odebrecht utilizadas contra a ex-primeira-dama do Peru, Nadine Heredia. O magistrado também determinou que não sejam realizados no Brasil atos de cooperaç…",
+      "url": "https://www.diariodocentrodomundo.com.br/stf-invalida-uso-de-provas-da-odebrecht-contra-ex-primeira-dama-do-peru/",
+      "urlToImage": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2025/11/peru.jpg",
+      "publishedAt": "2025-11-10T21:32:53Z",
+      "content": "Ollanta Humala e a ex-primeira-dama Nadine Heredia. Foto: Luka Gonzales/AFP\r\nO ministro Dias Toffoli, do Supremo Tribunal Federal (STF), anulou nesta segunda-feira (10) as provas da Odebrecht utiliza… [+1823 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Papelpop.com"
+      },
+      "author": "Gabriel Távora",
+      "title": "“Avenida Brasil 2”: Débora Falabella ainda não recebeu convite para reviver Nina, mas não descarta: “Gosto de fazer novela”",
+      "description": "Débora Falabella quebrou o silêncio e falou pela primeira vez sobre os rumores de uma continuação de “Avenida Brasil“. A atriz, que deu vida à icônica Nina em 2012, comentou para a Coluna Play, do jornal O Globo, a possibilidade da sequência da trama escrita …",
+      "url": "https://www.papelpop.com/2025/11/avenida-brasil-2-debora-falabella-ainda-nao-recebeu-convite-para-reviver-nina-mas-nao-descarta-gosto-de-fazer-novela/",
+      "urlToImage": "https://assets.papelpop.com/wp-content/uploads/2025/11/15805197235e34d12b53953_1580519723_3x2_rt.jpg",
+      "publishedAt": "2025-11-10T21:32:30Z",
+      "content": "Débora Falabella quebrou o silêncio e falou pela primeira vez sobre os rumores de uma continuação de “Avenida Brasil“.\r\nA atriz, que deu vida à icônica Nina em 2012, comentou para a Coluna Play, do j… [+1148 chars]"
+    },
+    {
+      "source": {
+        "id": "info-money",
+        "name": "InfoMoney"
+      },
+      "author": "Reuters",
+      "title": "Haddad diz esperar que fundo de florestas supere os US$ 10 bilhões em aportes",
+      "description": "O ministro também afirmou que, se a arrecadação federal seguir \"vindo bem\", o governo deve se aproximar de centro da meta de déficit fiscal zero neste ano\nThe post Haddad diz esperar que fundo de florestas supere os US$ 10 bilhões em aportes appeared first on…",
+      "url": "https://www.infomoney.com.br/politica/haddad-diz-esperar-que-fundo-de-florestas-supere-os-us-10-bilhoes-em-aportes/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2025/11/2025-11-05T130206Z_1_LYNXMPELA40QT_RTROPTP_4_MACRO-SEGURO-DEFESO.jpg?quality=70",
+      "publishedAt": "2025-11-10T21:29:16Z",
+      "content": "O governo brasileiro esperava um aporte da Alemanha ao Fundo Florestas Tropicais para Sempre (TFFF, na sigla em inglês) durante a COP30, em Belém, mas agora há expectativa de que o país anuncie até o… [+2516 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Metropoles.com"
+      },
+      "author": "Marina Ferreira",
+      "title": "William confessa como teve de lidar com câncer de Kate Middleton",
+      "description": "Em viagem pelo Brasil, o príncipe William comentou sobre a abordagem utilizada para lidar com o câncer da esposa, Kate Middleton",
+      "url": "https://www.metropoles.com/colunas/claudia-meireles/william-confessa-como-teve-de-lidar-com-cancer-de-kate-middleton",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/11/10162736/Kate-Middleton-e-principe-William_0-2.jpg",
+      "publishedAt": "2025-11-10T21:25:31Z",
+      "content": "O príncipe William se despediu do solo verde-amarelo na última sexta-feira (7/11). Entretanto, apesar de já estar em solo britânico, o herdeiro do trono do Reino Unido fez uma aparição inédita para o… [+2367 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Terra.com.br"
+      },
+      "author": "Estadão Conteúdo",
+      "title": "Governo de Goiás anuncia pagamentos de até R$ 10 mil a alunos com boa nota em matemática no Enem",
+      "description": "Estudantes da rede estadual de ensino que marcarem 900 pontos ou mais receberão o prêmio máximo; Estado tem premiação parecida para a redação",
+      "url": "https://www.terra.com.br/noticias/educacao/enem/governo-de-goias-anuncia-pagamentos-de-ate-r-10-mil-a-alunos-com-boa-nota-em-matematica-no-enem,c6d7ae62d2bbd67e07a68c737a44f7e7a61aizxg.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/10/1237762446-oog7nc3brfdabnc2nzxoulvafi.jpg",
+      "publishedAt": "2025-11-10T21:25:15Z",
+      "content": "O governo do Estado de Goiás anunciou que fará pagamentos de R$ 5 mil e R$ 10 mil a alunos da rede estadual de ensino que forem bem na prova de matemática no Exame Nacional do Ensino Médio (Enem). Es… [+1920 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Terra.com.br"
+      },
+      "author": "Esporte News Mundo",
+      "title": "Reta final da temporada define futuro do Corinthians em 2026",
+      "description": "Faltando apenas cinco rodadas do Brasileirão 2025, a vida do Corinthians para a próxima temporada ainda está em aberto.",
+      "url": "https://www.terra.com.br/esportes/corinthians/reta-final-da-temporada-define-futuro-do-corinthians-em-2026,c0278383c239fc09da85e7a99af5d9bbnfukv257.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/10/2123058739-img3542.jpeg",
+      "publishedAt": "2025-11-10T21:24:56Z",
+      "content": "Após a derrota para o Ceará na Neo Química Arena no último domingo (9), o Corinthians tem pouco mais de uma semana até o clássico Majestoso, diante do São Paulo, também em Itaquera.\r\nFaltando apenas … [+1591 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
+      "title": "Ibovespa supera 155 mil pontos e emplaca 11º recorde seguido com maior apetite por risco",
+      "description": "O mercado reagiu com otimismo à possibilidade de encerramento da paralisação (“shutdown”) da máquina pública dos EUA, após um acordo entre parlamentares democratas e republicanos",
+      "url": "https://valor.globo.com/financas/noticia/2025/11/10/ibovespa-supera-155-mil-pontos-e-emplaca-11o-recorde-seguido-com-maior-apetite-por-risco.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/1_xiAevJr3YcnCx8wq8F0-K4J5w=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2025/4/X/jf5md0Rc2q2qjqLn1jGg/422019428.jpg",
+      "publishedAt": "2025-11-10T21:22:46Z",
+      "content": "O maior apetite por risco impulsionou o Ibovespa nesta segunda-feira (10), que subiu 0,77%, aos 155.257 pontos, e emplacou o 11º recorde consecutivo de fechamento. O mercado reagiu com otimismo à pos… [+712 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Terra.com.br"
+      },
+      "author": "Perfil Brasil",
+      "title": "F1: Quem venceu o GP de São Paulo? Saiba como foi",
+      "description": "O GP de São Paulo foi dominado pelo líder do campeonato, Lando Norris, mais uma vez. Sem a ...",
+      "url": "https://www.terra.com.br/noticias/f1-quem-venceu-o-gp-de-sao-paulo-saiba-como-foi,1dd833d0b7fa52f5dfa87c4af9dae5c148u4674l.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/10/1598655664-perfil-brasil-37.jpg",
+      "publishedAt": "2025-11-10T21:21:33Z",
+      "content": "O GP de São Paulo foi dominado pelo líder do campeonato, Lando Norris, mais uma vez. Sem a grande chuva prevista, o fim de semana foi marcado por colisões e reviravoltas dramáticas. Kimi Antonelli ch… [+2113 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Terra.com.br"
+      },
+      "author": "Portal Terra",
+      "title": "Clubes impulsionam esporte brasileiro: base, medalhas e R$ 183 bi no PIB",
+      "description": "Clubes são pilares do esporte brasileiro, responsáveis pela formação de 86% dos atletas olímpicos. O CBC já investiu R$ 890 milhões no desenvolvimento esportivo, fortalecendo estruturas e capacitando profissionais. Descubra como essas instituições impulsionam…",
+      "url": "https://www.terra.com.br/esportes/clubes-seguem-como-pilares-do-esporte-brasileiro-e-protagonistas-na-formacao-de-atletas,1d6249dfbf351c994482dd616f2a517f3nme82kc.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/10/imagem-do-whatsapp-de-2025-11-10-a(s)-15-52-01_715c8cab-t4ibyztw86ea.jpg",
+      "publishedAt": "2025-11-10T21:21:13Z",
+      "content": "ResumoOs clubes brasileiros são fundamentais na formação de atletas e no fortalecimento do esporte nacional, responsáveis por 86% dos competidores brasileiros nos Jogos Olímpicos de Paris e grande pa… [+3413 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Diariodocentrodomundo.com.br"
+      },
+      "author": "Guilherme Arandas",
+      "title": "Mercado alerta Motta e Derrite sobre risco de equiparar crime comum a terrorismo",
+      "description": "Representantes do mercado financeiro fizeram chegar ao presidente da Câmara, Hugo Motta, e ao relator do PL Antifacção, Guilherme Derrite (PP-SP), uma série de alertas sobre os impactos econômicos da proposta que tramita na Casa. Com informações de Igor Gadel…",
+      "url": "https://www.diariodocentrodomundo.com.br/mercado-alerta-motta-e-derrite-sobre-risco-de-equiparar-crime-comum-a-terrorismo/",
+      "urlToImage": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2025/11/hugo-motta-presidente-da-camara-dos-deputados-em-sessao-plenaria-da-camara-1760646575091_v2_4x3-scaled.jpg",
+      "publishedAt": "2025-11-10T21:19:45Z",
+      "content": "O presidente da Câmara, Hugo Motta. Foto: Divulgação\r\nRepresentantes do mercado financeiro fizeram chegar ao presidente da Câmara, Hugo Motta, e ao relator do PL Antifacção, Guilherme Derrite (PP-SP)… [+2205 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Terra.com.br"
+      },
+      "author": "Jogada10",
+      "title": "Ex-Seleção pede que brasileiros confiem em Neymar para a Copa do Mundo",
+      "description": "Ex-companheiro do astro na Copa de 2018 faz um comparativo com outras edições do torneio em que a Seleção estava desacreditada",
+      "url": "https://www.terra.com.br/esportes/futebol/copa-2026/ex-selecao-pede-que-brasileiros-confiem-em-neymar-para-a-copa-do-mundo,6b523186b4b9a11a8fe1b19144e9bfc9enwh7h3p.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/10/1210874448-neymar-selecao-brasileira-610x400.jpg",
+      "publishedAt": "2025-11-10T21:18:50Z",
+      "content": "O recém aposentado Renato Augusto deu uma entrevista para a \"ESPN\", durante o evento \"Galera da Bola\", e se manifestou sobre Neymar. O ex-meio-campista considera que a dificuldade que o camisa 10 do … [+1726 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rollingstone.com.br"
+      },
+      "author": "Rolling Stone Brasil",
+      "title": "5 rolês (não tão) aleatórios feitos pelos membros do Linkin Park em SP",
+      "description": "Banda americana está em turnê pelo Brasil e capital paulista foi o segundo destino visitado; na próxima terça-feira, 11, eles se apresentam em Brasília",
+      "url": "https://rollingstone.com.br/musica/linkin-park-sao-paulo-roles-aleatorios/",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/10/1351219922-linkin-park-roles-aleatorios-fotos-reproducao-instagram.jpg",
+      "publishedAt": "2025-11-10T21:18:35Z",
+      "content": "O Linkin Park termina nesta terça-feira, 11, sua nova passagem pelo Brasil. O grupo americano se apresentou em Curitiba (05/11) e São Paulo (08/11) antes de fechar o itinerário local com performance … [+3118 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Uol.com.br"
+      },
+      "author": "Redação",
+      "title": "Cometa interestelar 3I/ATLAS se aproxima da Terra após passar pelo Sol",
+      "description": "Objeto celeste passará a 270 milhões de quilômetros do planeta em 19 de dezembro, exibindo brilho incomum e coloração azulada devido à formação de coma gasosa.\nThe post Cometa interestelar 3I/ATLAS se aproxima da Terra após passar pelo Sol appeared first on G…",
+      "url": "https://gizbr.uol.com.br/cometa-interestelar-atlas-aproximacao-terra/",
+      "urlToImage": "https://gizbr.uol.com.br/wp-content/blogs.dir/8/files/2025/11/atlas-cometa.jpg",
+      "publishedAt": "2025-11-10T21:15:25Z",
+      "content": "O cometa 3I/ATLAS, terceiro objeto interestelar já identificado no Sistema Solar, fará sua maior aproximação da Terra em 19 de dezembro. O objeto passará a 270 milhões de quilômetros do planeta.\r\nEm … [+1608 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Papelpop.com"
+      },
+      "author": "Jovi Marques",
+      "title": "Giulia Be sobre disco em três línguas: “Projeto mais verdadeiro que já fiz”",
+      "description": "Depois de cantar em inglês e espanhol, Giulia Be volta às suas origens e canta em português no single “viciada”, que estreou no fim da semana passada. Ao Papelpop, a cantora conta como essa faixa se transformou e tomou corpo durante o processo de produção. “A…",
+      "url": "https://www.papelpop.com/2025/11/giulia-be-sobre-disco-em-tres-linguas-projeto-mais-verdadeiro-que-ja-fiz/",
+      "urlToImage": "https://assets.papelpop.com/wp-content/uploads/2025/11/giuli-be.jpg",
+      "publishedAt": "2025-11-10T21:13:05Z",
+      "content": "Depois de cantar em inglês e espanhol, Giulia Be volta às suas origens e canta em português no single viciada, que estreou no fim da semana passada.\r\nAo Papelpop, a cantora conta como essa faixa se t… [+1437 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ig.com.br"
+      },
+      "author": "Fernando Naccari, Fernando Naccari",
+      "title": "Nova Toyota Hilux é revelada e deve chegar ao Brasil em 2026",
+      "description": "Design inspirado no sumô e novas motorizações marcam a geração mais tecnológica da picape",
+      "url": "https://carros.ig.com.br/2025-11-10/nova-toyota-hilux-revelada-deve-chegar-brasil-2026.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/29/07/g2/2907g2v0weq59vimj7kmfer21.jpg",
+      "publishedAt": "2025-11-10T21:12:17Z",
+      "content": "A Toyotaapresentou oficialmente a nova geração da Hilux, modelo que chega com mudanças importantes de design, cabine completamente redesenhada e a estreia de versões eletrificadas. A picape adota pel… [+3175 chars]"
+    },
+    {
+      "source": {
+        "id": "info-money",
+        "name": "InfoMoney"
+      },
+      "author": "jamilleniero",
+      "title": "Redação do Enem sobre envelhecimento amplia debate sobre seguro de vida e previdência",
+      "description": "Para especialistas, envelhecimento exige uma mudança cultural em relação à forma como o brasileiro planeja o futuro, protege a renda e garante qualidade de vida na maturidade\nThe post Redação do Enem sobre envelhecimento amplia debate sobre seguro de vida e p…",
+      "url": "https://www.infomoney.com.br/minhas-financas/redacao-do-enem-sobre-envelhecimento-amplia-debate-sobre-seguro-de-vida-e-previdencia/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2025/06/sp_enem23-1.webp?quality=70",
+      "publishedAt": "2025-11-10T21:09:55Z",
+      "content": "O tema da redação do Exame Nacional do Ensino Médio (Enem) 2025, aplicado neste domingo (09), Desafios do envelhecimento populacional no Brasil, reacendeu um debate urgente sobre o futuro financeiro … [+3924 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ig.com.br"
+      },
+      "author": "Roberta Nuñez, Roberta Nuñez",
+      "title": "Dia Mundial do Ceratocone alerta para riscos de coçar os olhos",
+      "description": "Doença silenciosa pode evoluir rapidamente e causar cegueira se não for diagnosticada e tratada a tempo",
+      "url": "https://saude.ig.com.br/colunas/vida-em-dia/2025-11-10/dia-mundial-do-ceratocone-alerta-para-riscos-de-cocar-os-olhos.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/0z/01/5z/0z015z52g9tzm4rarn6ljq03y.jpg",
+      "publishedAt": "2025-11-10T21:09:40Z",
+      "content": "Celebrado em 10 de novembro, o Dia Mundial do Ceratocone reforça a importância do diagnóstico precoce e do cuidado contínuo com a saúde ocular. O ceratocone é uma doença que afina e deforma a córnea,… [+2410 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": "Agência O Globo",
+      "title": "Vieira e Rubio devem se reunir nesta terça em meio a impasse sobre tarifas e sanções",
+      "description": "Ainda sem confirmação oficial, reunião poderá marcar um novo capítulo na tentativa de aproximação entre os governos Lula e Trump\nThe post Vieira e Rubio devem se reunir nesta terça em meio a impasse sobre tarifas e sanções appeared first on InfoMoney.",
+      "url": "https://oglobo.globo.com/economia/noticia/2025/11/10/ieira-e-rubio-devem-se-reunir-no-canada-em-meio-a-impasse-sobre-tarifas-e-sancoes.ghtml",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2025/11/Captura-de-tela-2025-11-10-180744.png?quality=70",
+      "publishedAt": "2025-11-10T21:09:34Z",
+      "content": "O ministro das Relações Exteriores, Mauro Vieira, deve se reunir nesta terça-feira com o secretário de Estado americano, Marco Rubio, à margem da cúpula dos países do G7, na cidade canadense de Niága… [+4645 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Noticiasautomotivas.com.br"
+      },
+      "author": "Ricardo de Oliveira",
+      "title": "Líder de vendas da VW, Tera já é o segundo carro mais exportado atualmente pela montadora alemã",
+      "description": "O Tera agora é o segundo carro mais exportado da VW atualmente, já tendo sido embarcado para a Argentina, México, Chile, Colômbia, Uruguai, Peru, Equador,",
+      "url": "https://www.noticiasautomotivas.com.br/lider-de-vendas-da-vw-tera-ja-e-o-segundo-carro-mais-exportado-atualmente-pela-montadora-alema/",
+      "urlToImage": "https://images.noticiasautomotivas.com.br/img/f/vw-tera-exportacao-1.jpg",
+      "publishedAt": "2025-11-10T21:07:10Z",
+      "content": "vw tera exportação 1\r\nO Tera agora é o segundo carro mais exportado da VW atualmente, já tendo sido embarcado para a Argentina, México, Chile, Colômbia, Uruguai, Peru, Equador, Paraguai, Guatemala, B… [+2050 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "A destruição da Amazônia continua: ainda há tempo para salvá-la?",
+      "description": "Cientistas afirmam que o futuro da Amazônia, anfitriã da COP30, é incerto, após décadas de desmatamento e agora também devido aos impactos climáticos.",
+      "url": "https://www.bbc.com/portuguese/articles/cp8y4kk393no",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/39c7/live/33de7680-bb3a-11f0-ba75-093eca1ac29b.png",
+      "publishedAt": "2025-11-10T21:06:58Z",
+      "content": "Crédito, BBC, Getty Images\r\nArticle Information<ul><li><ul><li>Author, Navin Singh Khadka, Antonio Cubero e Equipe de Jornalismo Visual da BBC</li><li>Role, BBC World Service</li></ul></li><li></li><… [+12383 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Adam Bankhurst, Allana Aristides",
+      "title": "De Devil May Cry a Elden Ring: próximos lançamentos de filmes e séries baseados em videogames",
+      "description": "Aqui estão todas as adaptações de jogos que serão lançadas nos próximos ano",
+      "url": "https://br.ign.com/devil-may-cry-2/148025/news/de-devil-may-cry-a-elden-ring-proximos-lancamentos-de-filmes-e-series-baseados-em-videogames",
+      "urlToImage": "https://sm.ign.com/t/ign_br/lists/u/upcoming-n/upcoming-new-video-game-movies-and-tv-shows-2025-release-dat_34uh.1200.jpg",
+      "publishedAt": "2025-11-10T21:06:01Z",
+      "content": "Alguns podem dizer que estamos vivendo um renascimento das adaptações de videogames, já que fomos presenteados com o filme Super Mario Bros., o terceiro filme do Sonic e séries baseadas em The Last o… [+19676 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ig.com.br"
+      },
+      "author": "Alan Favaron, Alan Favaron",
+      "title": "Na mira da justiça: Bruno Henrique vira solução no ataque do Fla",
+      "description": "Com a final da Libertadores se aproximando, o atacante pode ganhar papel importante no time de Filipe Luís",
+      "url": "https://esporte.ig.com.br/futebol/2025-11-10/na-mira-justica-bruno-henrique-vira-solucao-ataque-fla.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/6r/s1/yu/6rs1yug1109oe5jy40pgnluxn.jpg",
+      "publishedAt": "2025-11-10T21:04:16Z",
+      "content": "No dia 29 de novembro, o Flamengo entra em campo para a decisão da Libertadores, contra o Palmeiras. Porém, para um confronto tão importante para o Rubro-Negro, uma dúvida segue pairando sobre a equi… [+2337 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sopitas.com"
+      },
+      "author": "Lucy Sanabria",
+      "title": "Cómo fue el supuesto plan de Irán para asesinar a la embajadora de Israel en México",
+      "description": "Como de película o, chance, algunos así lo piensen después de conocer el supuesto plan de Irán para atacar a la embajadora de Israel en México...\nThe post Cómo fue el supuesto plan de Irán para asesinar a la embajadora de Israel en México appeared first on So…",
+      "url": "https://www.sopitas.com/noticias/israel-embajadora-mexico-iran-complot/",
+      "urlToImage": "https://www.sopitas.com/wp-content/uploads/2025/11/embajadora-israel-mexico-iran.jpg",
+      "publishedAt": "2025-11-10T21:02:58Z",
+      "content": "Lo que necesitas saber:\r\nLa SRE dijo que no tenía ningún reporte sobre este supuesto atentado.\r\nComo de película o, chance, algunos así lo piensen después de conocer el supuesto plan de Irán para ata… [+5898 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
+      "title": "Estatais brasileiras assinam compromisso para promover transição energética justa",
+      "description": "O documento foi lançado durante painel da COP30 que abordou o papel das empresas públicas globais diante da emergência climática",
+      "url": "https://valor.globo.com/brasil/cop30-amazonia/noticia/2025/11/10/estatais-brasileiras-assinam-compromisso-para-promover-transicao-energetica-justa.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/gISbt9SuHd238T5mo1SwWdTgsPc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2025/G/z/nX6nr3TQClMODzxh2sWg/ministra-de-gestao-e-da-inovacao-em-servico-publico-esther-dwek-no-pavilao-da-casa-brasil.-raimundo-pacco-cop30.jpg",
+      "publishedAt": "2025-11-10T21:02:57Z",
+      "content": "As empresas estatais brasileiras assinaram nesta segunda-feira (10), em meio à agenda de ação da Conferência das Nações Unidas sobre as Mudanças Climáticas de 2025, uma declaração de compromisso para… [+2396 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Olhardigital.com.br"
+      },
+      "author": "Bruna Barone",
+      "title": "Ibama arquiva o último projeto de usina a carvão na América Latina",
+      "description": "Processo de licenciamento da Termelétrica Ouro Negro, no Rio Grande do Sul, apresentou falhas para minimizar impactos ambientais \nO post Ibama arquiva o último projeto de usina a carvão na América Latina apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2025/11/10/ciencia-e-espaco/ibama-arquiva-o-ultimo-projeto-de-usina-a-carvao-na-america-latina/",
+      "urlToImage": "https://olhardigital.com.br/wp-content/uploads/2025/11/carvao.jpg",
+      "publishedAt": "2025-11-10T21:02:30Z",
+      "content": "O Ibama anunciou nesta segunda-feira (10) o arquivamento em definitivo do último projeto de usina a carvão em licenciamento na América Latina. A proposta envolve a construção da Usina Termelétrica (U… [+3173 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abril.com.br"
+      },
+      "author": "Robson Bonin",
+      "title": "Espetáculo em Brasília resgata legado artístico dos irmãos Timótheo da Costa",
+      "description": "João e Arthur figuram entre os nomes mais destacados de pintores da cena artística brasileira, nas duas primeiras décadas do século XX",
+      "url": "https://veja.abril.com.br/brasil/espetaculo-em-brasilia-resgata-legado-artistico-dos-irmaos-timotheo-da-costa/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/11/WhatsApp-Image-2025-11-10-at-14.28.28.jpeg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2025-11-10T21:01:29Z",
+      "content": "Super BlackFriday: Assine VEJA a partir de 7,99Os ingressos custam 15 reais (meia entrada) e 30 reais (inteira) e estão disponíveis no site bb.com.br/cultura ou na bilheteria do CCBB Brasília na sext… [+1831 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abril.com.br"
+      },
+      "author": "Valéria França",
+      "title": "Edição limitada resgata os Palacetes da Borracha para a COP30",
+      "description": "Obra iconográfica foi elaborada especialmente para presentear os líderes dos países que vieram para o evento",
+      "url": "https://veja.abril.com.br/cultura/edicao-limitada-resgata-os-palacetes-da-borracha-para-a-cop30/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/11/1.Capa-Palacio-1.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2025-11-10T21:00:42Z",
+      "content": "Super BlackFriday: Assine VEJA a partir de 7,99REDESCOBERTA - Livro reúne o melhor da arquitetura histórica de Belém (COP30/Divulgação)\r\nContinua após publicidade\r\nA presidência da 30ª Conferência da… [+2411 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
+      "title": "Brasil e China mostram que inovação saiu do eixo EUA-Europa, diz CEO do Web Summit",
+      "description": "Paddy Cosgrave destaca o Pix, ao dizer que “o dinheiro da IA chinesa tem movido o mundo”, mas que a revolução dos sistemas de pagamento mundiais vem de um sistema “extremamente resiliente”",
+      "url": "https://valor.globo.com/empresas/noticia/2025/11/10/brasil-e-china-mostram-que-inovao-saiu-do-eixo-eua-europa-diz-ceo-do-web-summit.ghtml",
+      "urlToImage": "https://s2-valor.glbimg.com/z6bEXRcvFZAC4nM-p9N8pbvtVoI=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2025/G/t/CJtjc4QaCr4m1AjIPxfQ/arte-pix.jpg",
+      "publishedAt": "2025-11-10T21:00:03Z",
+      "content": "O sistema de pagamentos Pix, criado pelo Banco Central do Brasil, bem como os robôs humanoides e modelos de inteligência artificial (IA) generativadaChina foram exaltados pelo executivo-chefe do Web … [+2364 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Noticiabrasil.net.br"
+      },
+      "author": "Sputnik Brasil",
+      "title": "STF proíbe prisão ou extradição de ex-primeira-dama do Peru com base em provas do caso Odebrecht",
+      "description": "O ministro do Supremo Tribunal Federal (STF) Dias Toffoli, determinou nesta segunda-feira (10) a nulidade de provas da Odebrecht contra a ex-primeira-dama do Peru Nadine Heredia, casada com o ex-presidente Ollanta Humala.",
+      "url": "https://noticiabrasil.net.br/20251110/stf-proibe-prisao-ou-extradicao-de-ex-primeira-dama-do-peru-com-base-em-provas-do-caso-odebrecht--45061404.html",
+      "urlToImage": "https://cdn.noticiabrasil.net.br/images/sharing/article/por/45061404.jpg?392001221762808935",
+      "publishedAt": "2025-11-10T20:59:58Z",
+      "content": "Siga a Sputnik Brasil e tenha acesso a conteúdos exclusivos no nosso canal no Telegram.\r\nJá que a Sputnik está bloqueada em alguns países, por aqui você consegue baixar o nosso aplicativo para celula… [+24 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Milenio"
+      },
+      "author": "Redacción",
+      "title": "Queruva galardonada como “Agencia del Año 2025” en Salud y Farmacia",
+      "description": "La agencia mexicana Queruva fue galardonada como “Agencia del Año 2025” durante la vigésima edición de los Premios Aspid de Creatividad y Comunicación Iberoamericana en Salud y Farmacia, celebrada en la Ciudad de México.La firma obtuvo el Premio Especial Aspi…",
+      "url": "https://www.milenio.com/negocios/agencia-de-publicidad-queruva-es-la-agencia-del-ano-2025",
+      "urlToImage": "https://cdn.milenio.com/uploads/media/2025/11/10/firma-mexicana-obtuvo-premio-especial.jpg",
+      "publishedAt": "2025-11-10T20:59:00Z",
+      "content": "La agencia mexicana Queruva fue galardonada como Agencia del Año 2025 durante la vigésima edición de los Premios Aspid de Creatividad y Comunicación Iberoamericana en Salud y Farmacia.\r\nLa firma obtu… [+1570 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Terra.com.br"
+      },
+      "author": "Minha Vida",
+      "title": "Chá anti-inflamatório de uma planta comum no Brasil controla a diabetes, imunidade e colesterol",
+      "description": "Pouca gente sabe, mas u ma planta facilmente encontrada em quintais brasileiros pode trazer ...",
+      "url": "https://www.terra.com.br/vida-e-estilo/degusta/cha-anti-inflamatorio-de-uma-planta-comum-no-brasil-controla-a-diabetes-imunidade-e-colesterol,9b1b5420dc5ef16d27b62ab4e6db7c09q5wlp64i.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/10/1016618811-imagem-aproximada-de-caneca-transparente-com-cha-orig-1.jpg",
+      "publishedAt": "2025-11-10T20:57:56Z",
+      "content": "Pouca gente sabe, mas uma planta facilmente encontrada em quintais brasileiros pode trazer benefícios poderosos para a saúde. O chá feito a partir dela é um anti-inflamatório natural, capaz de ajudar… [+1561 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Metropoles.com"
+      },
+      "author": "José Augusto Limão",
+      "title": "Toffoli decide sobre pedido de ex-primeira-dama do Peru para evitar prisão",
+      "description": "Ex-primeira-dama do Peru, Nadine Heredia, entrou no STF pedindo a sua não extradição. Toffoli deferiu, em partes, a solicitação",
+      "url": "https://www.metropoles.com/brasil/toffoli-decide-sobre-pedido-de-ex-primeira-dama-do-peru-para-evitar-prisao",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/04/15201131/Nadine-Heredia.jpg",
+      "publishedAt": "2025-11-10T20:57:06Z",
+      "content": "O ministro Dias Toffoli, do Supremo Tribunal Federal (STF), respondeu, nesta segunda-feira (10/11), ao pedido da ex-primeira-dama do Peru, Nadine Heredia Alarcón, que solicitava que a Corte impedisse… [+2103 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Metropoles.com"
+      },
+      "author": "Camilla Germano",
+      "title": "Avenida Brasil: veja quando estreia a versão turca da novela no Brasil",
+      "description": "O remake turco da novela Avenida Brasil, de João Emanuel Carneiro, já tem data de estreia em solo brasileiro",
+      "url": "https://www.metropoles.com/entretenimento/televisao/avenida-brasil-veja-quando-estreia-a-versao-turca-da-novela-no-brasil",
+      "urlToImage": "https://uploads.metroimg.com/wp-content/uploads/2025/11/10165747/assets_fotos_336_globoplay-celebra-10-anos-como-o-maior-streaming-brasileiro-sinonimo-de-brasilidade-emocao-e-engajamento-73dd18ffb4b4.jpg",
+      "publishedAt": "2025-11-10T20:56:53Z",
+      "content": "Um das novelas de maior sucesso da teledramaturgia brasileira, Avenida Brasil (2012) recebeu uma versão internacional. O folhetim de João Emanuel Carneiro, conhecido pela trama repleta de vingança, g… [+710 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Uol.com.br"
+      },
+      "author": "Felipe van Deursen",
+      "title": null,
+      "description": "48º23'N, 9º59'LPrincipal Igreja de UlmUlm, Baden-Württemberg, AlemanhaDurante 135 anos, ela foi a igreja mais alta do mundo. Bem, a depender do seu critério, ainda é a mais alta, porque a Sagrada Família nem foi inaugurada.Em todo caso, em 30 de outubr",
+      "url": "https://www.uol.com.br/nossa/colunas/terra-a-vista/2025/11/10/igreja-mais-alta-do-mundo-ate-2025-foi-ameacada-por-bombas-e-xixi-de-bebado.htm",
+      "urlToImage": "https://conteudo.imguol.com.br/c/entretenimento/c2/2025/11/07/principal-igreja-de-ulm-na-alemanha-1762543185970_v2_615x300.jpg",
+      "publishedAt": "2025-11-10T20:56:04Z",
+      "content": "São recordes com impactos e significados distintos. O mundo de hoje é muito diferente do de quando a igreja germânica assumiu o posto de mais alta do mundo, no fim do século 19.\r\nA Sagrada Família nã… [+1085 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Terra.com.br"
+      },
+      "author": "Estadão Conteúdo",
+      "title": "Eduardo Bolsonaro rebate críticas de governador bolsonarista e diz viver 'no exílio'",
+      "description": "Deputado federal Eduardo Bolsonaro (PL-SP) chamou governador de Mato Grosso, Mauro Mendes (União Brasil), de 'político bosta'",
+      "url": "https://www.terra.com.br/noticias/brasil/politica/eduardo-bolsonaro-rebate-criticas-de-governador-bolsonarista-e-diz-viver-no-exilio,783a70926ced2c3956b8187187117625xqlsbp0y.html",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2025/11/10/1751069051-uyksqqm23zgkjkmxr4cnfkygou.jpg",
+      "publishedAt": "2025-11-10T20:55:52Z",
+      "content": "O deputado federal Eduardo Bolsonaro (PL-SP) rebateu, neste domingo, 9, as declarações do governador de Mato Grosso, Mauro Mendes (União Brasil), que chamou o parlamentar de \"louco\" e criticou as dec… [+2425 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eldiario.es"
+      },
+      "author": "Andrés Gil",
+      "title": "Álvaro García Linera: \"La victoria de Mamdani demuestra que la izquierda tiene que apostar por la audacia y un nuevo porvenir\"",
+      "description": "\"Las grandes potencias y sus caudillos siguen un proceso de insuflamiento e implosión. Su agresividad es inversamente proporcional a su poderío y duración. Lo que no sabemos es la gravedad del daño que el viejo hegemón arrastrará en su lenta caída\", afirma so…",
+      "url": "https://www.eldiario.es/internacional/alvaro-garcia-linera-victoria-mamdani-demuestra-izquierda-apostar-audacia-nuevo-porvenir_128_12756810.html",
+      "urlToImage": "https://static.eldiario.es/clip/e5e3a82c-31a8-4c13-b00c-03af9f272c17_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "publishedAt": "2025-11-10T20:54:58Z",
+      "content": "Álvaro García Linera (Cochabamba, 1962) fue vicepresidente de Bolivia entre 2006 y 2019, cuando un golpe de Estado acabó con el Gobierno presidido por Evo Morales, para aupar durante un año a Jeanine… [+14695 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eldiario.es"
+      },
+      "author": "Bernardo Gutiérrez",
+      "title": "América Latina se defiende de Trump: más comercio interno y nuevos horizontes de exportación",
+      "description": "A la par que incentivan el mercado regional, los países latinoamericanos refuerzan las relaciones económicas con China e India y se acercan a Europa\r\nEl comercio se resetea: el mundo se adapta a los aranceles, pero altera el mapa de exportaciones\r\n\n El tarifa…",
+      "url": "https://www.eldiario.es/economia/america-latina-defiende-trump-comercio-interno-nuevos-horizontes-exportacion_1_12749362.html",
+      "urlToImage": "https://static.eldiario.es/clip/d93d5b18-a07a-411d-b7a8-d5051dab07fa_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "publishedAt": "2025-11-10T20:54:58Z",
+      "content": "El tarifazo del gobierno de Estados Unidos empieza a volverse en su contra. El pasado 28 de abril, un influencer chino publicó un vídeo mostrando navíos brasileños descargando soja en el puerto de Ni… [+7683 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Eldiario.es"
+      },
+      "author": "Xira Ruiz Campillo",
+      "title": "Tres décadas de COPs y avances contra el cambio climático",
+      "description": "Con los años se han producido grandes avances en nuestro entendimiento sobre el cambio climático, una ampliación de la agenda climática y, en consecuencia, un aumento de la complejidad de las negociaciones\r\nOpinión - 'COP 30, la hora de la verdad', por Luiz I…",
+      "url": "https://www.eldiario.es/opinion/tribuna-abierta/tres-decadas-cops-avances-cambio-climatico_129_12756034.html",
+      "urlToImage": "https://static.eldiario.es/clip/bef39905-03f7-4a72-bf42-a5f7fb60e7bb_facebook-aspect-ratio_default_0.jpg",
+      "publishedAt": "2025-11-10T20:54:49Z",
+      "content": "El lunes de esta semana ha empezado la COP 30 en Belém (Brasil) y es una buena ocasión para hacer balance de treinta años de reuniones. Todos los años, por estas fechas, leo algún artículo u opinión … [+1434 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ig.com.br"
+      },
+      "author": "Clara Beatriz Saraiva Ferreira, Clara Beatriz Saraiva Ferreira",
+      "title": "Banco do Brasil leiloa 150 imóveis com desconto de até 70%",
+      "description": "Novos bens serão incluídos ao longo de novembro, e a ação segue disponível até o dia 15 de dezembro",
+      "url": "https://economia.ig.com.br/2025-11-10/banco-do-brasil-leiloa-150-imoveis-com-desconto-de-ate-70-.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/80/7b/l1/807bl1gdj8kx27nktdda9evo2.jpg",
+      "publishedAt": "2025-11-10T20:54:43Z",
+      "content": "O Banco do Brasil (BB) está promovendo uma campanha oferecendo descontos de até 70% em mais de 150 imóveis disponíveis para leilão e venda direta com condições especiais para quem busca adquirir bens… [+1444 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Onefootball.com"
+      },
+      "author": null,
+      "title": "Giants and underdogs chase Copa do Brasil spots this break, fixtures",
+      "description": "World champion teams and underdog teams could secure a spot in the 2026 World Cup during this FIFA window.The list ranges from Spain and France to Honduras and Jamaica. As a result, the coming days pr...",
+      "url": "https://onefootball.com/en/news/giants-and-underdogs-chase-copa-do-brasil-spots-this-break-fixtures-41934507",
+      "urlToImage": "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fen%2F41934507%3Fdate=2025-11-10",
+      "publishedAt": "2025-11-10T20:52:00Z",
+      "content": "World champion teams and underdog teams could secure a spot in the 2026 World Cup during this FIFA window.\r\nThe list ranges from Spain and France to Honduras and Jamaica. As a result, the coming days… [+3140 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes.com.mx"
+      },
+      "author": "Forbes Staff",
+      "title": "IBM y Sharápova lanzan concurso para ‘startups’ que combinen IA y deporte",
+      "description": "Forbes México.\n IBM y Sharápova lanzan concurso para ‘startups’ que combinen IA y deporte\n\nLa iniciativa se realizará durante los próximos 12 meses con actos en Doha, Vancouver y Río de Janeiro; la final será en la Web Summit Lisboa 2026.\nIBM y Sharápova lanz…",
+      "url": "https://forbes.com.mx/ibm-y-sharapova-lanzan-concurso-para-startups-que-combinen-ia-y-deporte/",
+      "urlToImage": "https://cdn.forbes.com.mx/2020/04/1040580_10151439871207680_995955262_o-e1585789225583.jpg",
+      "publishedAt": "2025-11-10T20:51:25Z",
+      "content": "La compañía tecnológica IBM y la extenista rusa María Sharápova lanzaron este lunes en la Web Summit 2025 en Lisboa un nuevo concurso para ‘startups’ que combinen la Inteligencia Artificial (IA) y el… [+2220 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "COP30: Cúpula do clima ainda faz sentido se Trump e vários outros líderes a ignoram?",
+      "description": "A ausência do presidente dos EUA e de outros líderes na COP30 levanta dúvidas sobre o propósito da cúpula.",
+      "url": "https://www.bbc.com/portuguese/articles/c3rj23n8yzpo",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/7877/live/1e303020-be24-11f0-8669-5560f5c90fbe.jpg",
+      "publishedAt": "2025-11-10T20:48:40Z",
+      "content": "Crédito, Wagner Meier/Getty Images\r\nLegenda da foto, COP30: Cúpula do clima ainda faz sentido se Trump e vários outros líderes a ignoram?\r\nArticle Information<ul><li><ul><li>Author, Justin Rowlatt</l… [+12569 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abril.com.br"
+      },
+      "author": "Juliana Elias",
+      "title": "BC cria regras para que criptomoedas cumpram mesmas obrigações que bancos e corretoras",
+      "description": "Objetivo, de acordo com o Banco Central, é evitar fraudes, golpes e lavagem de dinheiro, além de ampliar a informação e segurança aos investidores",
+      "url": "https://veja.abril.com.br/economia/bc-cria-regras-para-que-criptomoedas-cumpram-mesmas-obrigacoes-que-bancos-e-corretoras/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2021/06/GettyImages-1035974156.jpg?quality=70&strip=info&resize=1080,565&crop=1",
+      "publishedAt": "2025-11-10T20:48:20Z",
+      "content": "ASSINE VEJA NEGÓCIOSCorretoras e outras instituições financeiras precisarão de autorização do BC para operar com moedas virtuais (Christopher Wong/S3studio/Getty Images)\r\nContinua após publicidade\r\nO… [+6031 chars]"
+    },
+    {
+      "source": {
+        "id": "info-money",
+        "name": "InfoMoney"
+      },
+      "author": "Estadão Conteúdo",
+      "title": "No Brasil, governador da Califórnia chama tarifaço dos EUA de “insultante”",
+      "description": "Em São Paulo, Gavin Newsom argumentou que os EUA deveriam estar estreitando relações com democracias como o Brasil, ao invés de se afastar\nThe post No Brasil, governador da Califórnia chama tarifaço dos EUA de “insultante” appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/mercados/no-brasil-governador-da-california-chama-tarifaco-dos-eua-de-insultante/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2025/11/2025-11-09T155141Z_1359881627_RC2VSHA4CULB_RTRMADP_3_BRAZIL-WEATHER-TORNADO.jpg",
+      "publishedAt": "2025-11-10T20:47:02Z",
+      "content": "© 2000-2025 InfoMoney. Todos os direitos reservados.\r\n O InfoMoney preza a qualidade da informação e atesta a apuração de todo o conteúdo produzido por sua\r\n equipe,\r\n ressaltando, no entanto, que nã… [+1238 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Observador.pt"
+      },
+      "author": "Alexandra Machado",
+      "title": "Tribunal brasileiro decreta falência da Oi",
+      "description": "O tribunal brasileiro decretou a falência da operadora Oi, que chegou a ser dos principais acionistas da ex-Portugal Telecom. É o fim da linha para a empresa que esteve duas vezes em recuperação.",
+      "url": "https://observador.pt/2025/11/10/tribunal-brasileiro-decreta-falencia-da-oi-que-chegou-a-ser-das-maiores-acionistas-da-ex-portugal-telecom/",
+      "urlToImage": "https://wm.observador.pt/wm/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A770%3A433%3Anowe%3A0%3A0%2Fq%3A70%2Ff%3Awebp%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2020%2F08%2F08150447%2F16738673_770x433_acf_cropped.jpg?layer=obstop:T",
+      "publishedAt": "2025-11-10T20:44:59Z",
+      "content": "É o fim da linha para a operadora brasileira Oi, que chegou a ter uma das maiores participações na ex-Portugal Telecom (hoje Pharol) e que teve no seu universo a Meo (vendeu-a à Altice em 2015).\r\nA O… [+2299 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Ig.com.br"
+      },
+      "author": "ESG Insights, ESG Insights",
+      "title": "Greenwashing: entenda o que é e como combatê-lo",
+      "description": "Saiba o que é greenwashing, como identificar práticas enganosas e veja dicas para fortalecer suas práticas de sustentabilidade",
+      "url": "https://economia.ig.com.br/parceiros/esginsights/2025-11-10/greenwashing--entenda-o-que-e-e-como-combate-lo.html",
+      "urlToImage": "https://i0.statig.com.br/bancodeimagens/81/d4/7r/81d47rbmduplgqhuqjai8l448.jpg",
+      "publishedAt": "2025-11-10T20:44:33Z",
+      "content": "Ao longo dos últimos anos, a sustentabilidade deixou de ser um diferencial e passou a ser uma exigência. Empresas de todos os setores buscam alinhar suas operações a práticas ambientais, sociais e de… [+6949 chars]"
+    },
+    {
+      "source": {
+        "id": "info-money",
+        "name": "InfoMoney"
+      },
+      "author": "Estadão Conteúdo",
+      "title": "Chefe do clima da ONU diz que país sem economia verde terá mais inflação",
+      "description": "Simon Stiell disse que países fora dos acordos multilaterais para combater aquecimento global terão inflação maior, em recado indireto para os EUA, que deixarão o Acordo de Paris\nThe post Chefe do clima da ONU diz que país sem economia verde terá mais inflaçã…",
+      "url": "https://www.infomoney.com.br/mundo/chefe-do-clima-da-onu-diz-que-pais-sem-economia-verde-tera-mais-inflacao/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2025/11/2025-11-10T141959Z_1901095492_RC229HA66YHY_RTRMADP_3_CLIMATE-COP30-1.jpg?quality=70",
+      "publishedAt": "2025-11-10T20:43:03Z",
+      "content": "No discurso de abertura da Cúpula do Clima das Nações Unidas (COP30), o secretário executivo da Convenção-Quadro da ONU sobre Mudança Climática (o órgão da ONU que organiza a cúpula), Simon Stiell, d… [+9296 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Whiplash.net"
+      },
+      "author": "Mateus Ribeiro",
+      "title": "Para alguns, ver o AC/DC é um sonho. E sonhos não têm preço",
+      "description": "Não é apenas a oportunidade de ouvir clássicos como \"Back in Black\", em volume máximo - é a possibilidade de testemunhar, talvez pela última vez, uma lenda.",
+      "url": "https://whiplash.net/materias/news_677/374146-acdc.html",
+      "urlToImage": "https://whiplash.net/imagens_promo_22/acdc_motisukipr_via_alinobre.jpg",
+      "publishedAt": "2025-11-10T20:43:00Z",
+      "content": "O AC/DC dispensa maiores apresentações. Com meio século de história, o grupo fundado pelos irmãos Malcolm e Angus Young - ambos guitarristas - construiu uma carreira sólida, marcada por hits atempora… [+1655 chars]"
+    },
+    {
+      "source": {
+        "id": "info-money",
+        "name": "InfoMoney"
+      },
+      "author": "Reuters",
+      "title": "Níquel e cobre: multinacional paga R$ 1 bi após cancelar compra de minas brasileiras",
+      "description": "Sibanye havia feito um acordo de US$ 1,2 bilhão para a compra de minas brasileiras de níquel e cobre da Appian Capital Advisory\nThe post Níquel e cobre: multinacional paga R$ 1 bi após cancelar compra de minas brasileiras appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/business/niquel-e-cobre-multinacional-paga-r-1-bi-apos-cancelar-compra-de-minas-brasileiras/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2025/11/segmentos-mineracao-01-2.jpg?quality=70",
+      "publishedAt": "2025-11-10T20:40:07Z",
+      "content": "(Reuters) A Sibanye Stillwater e a Appian Capital Advisory chegaram a um acordo de US$215 milhões (R$ 1,140 bilhão, na cotação de hoje) sobre a rescisão, pela mineradora sul-africana, de um acordo de… [+1325 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mdig.com.br"
+      },
+      "author": "https://www.facebook.com/luisaocs",
+      "title": "Você sabia que os americanos recrutaram nazistas para vencer a Guerra Fria?",
+      "description": "Em maio de 1945, o Terceiro Reich estava em caos. Adolf Hitler estava morto, a rendição alemã era iminente e as tropas aliadas já haviam começado a dividir o território alemão. Mas o engenheiro nazista de alta patente Wernher von Braun não estava preocupado. …",
+      "url": "https://www.mdig.com.br/index.php?itemid=60568",
+      "urlToImage": "https://imagens.mdig.com.br/historia/operacao_paperclip.jpg",
+      "publishedAt": "2025-11-10T20:38:11Z",
+      "content": "<table><tr><td></td><td>Em maio de 1945, o Terceiro Reich estava em caos. Adolf Hitler estava morto, a rendição alemã era iminente e as tropas aliadas já haviam começado a dividir o território alemão… [+6673 chars]"
+    },
+    {
+      "source": {
+        "id": "la-nacion",
+        "name": "La Nacion"
+      },
+      "author": "LA NACION",
+      "title": "Ver Homo Argentum online: cuánto falta para que la película con Guillermo Francella llegue al streaming",
+      "description": "El film dirigido por Mariano Cohn y Gastón Duprat, con Francella en 16 personajes, ya tiene confirmación para su estreno on demand: fecha y plataforma, más la estrategia detrás del retraso en streaming",
+      "url": "https://www.lanacion.com.ar/que-sale/ver-homo-argentum-online-cuanto-falta-para-que-la-pelicula-con-guillermo-francella-llegue-al-nid10112025/",
+      "urlToImage": "https://resizer.glanacion.com/resizer/v2/humor-ironia-seca-algo-de-incomodidad-y-464MAP6AJNBPXPZHMXOHDC26BE.JPG?auth=1cba65edaa3001170d8fbdbf7a4e9eece335b972f8cf721ee361cab01ae4f96d&width=1200&quality=70&smart=false&height=770",
+      "publishedAt": "2025-11-10T20:36:46Z",
+      "content": "La agenda del estreno en casa quedó definida y sin misterio: Homo Argentum se podrá ver online en la Argentina desde el 19 de diciembre y estará disponible en Disney+, con lanzamiento local confirmad… [+2890 chars]"
+    },
+    {
+      "source": {
+        "id": "info-money",
+        "name": "InfoMoney"
+      },
+      "author": "murilomelo",
+      "title": "Natura vive ‘inferno astral’ com vendas fracas e pressão da Avon; o que pode mudar?",
+      "description": "JPMorgan prevê maré de azar prolongada para a Natura, com vendas em queda até 2026 e incertezas na Avon\nThe post Natura vive ‘inferno astral’ com vendas fracas e pressão da Avon; o que pode mudar? appeared first on InfoMoney.",
+      "url": "https://www.infomoney.com.br/mercados/natura-vive-inferno-astral-com-vendas-fracas-e-pressao-da-avon-o-que-pode-mudar/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2025/03/Captura-de-tela-2025-03-17-094531.png?quality=70",
+      "publishedAt": "2025-11-10T20:36:29Z",
+      "content": "A Natura (NATU3) vive um verdadeiro inferno astral e deve enfrentar um período prolongado de enfraquecimento nas vendas, em meio à concorrência acirrada, à perda de força da Avon e a um ambiente econ… [+2904 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abril.com.br"
+      },
+      "author": "Valmir Moratelli",
+      "title": "Aposta para Oscar, o estrondoso sucesso de estreia de ‘O Agente Secreto’",
+      "description": "Filme acumula cerca de 340 mil espectadores no primeiro final de semana nos cinemas",
+      "url": "https://veja.abril.com.br/coluna/veja-gente/aposta-para-oscar-o-estrondoso-sucesso-de-estreia-de-o-agente-secreto/",
+      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2025/05/Wagner-Moura-em-O-Agente-Secreto.png?resize=1080,565&crop=1",
+      "publishedAt": "2025-11-10T20:35:14Z",
+      "content": "Super BlackFriday: Assine VEJA a partir de 7,99\r\nWagner Moura em \"O Agente Secreto\" (Reprodução/Reprodução)\r\nContinua após publicidade\r\nO Agente Secreto liderou o fim de semana nos cinemas do Brasil … [+675 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Whiplash.net"
+      },
+      "author": "Emanuel Seagal",
+      "title": "Hellfest terá 183 bandas em 4 dias de shows na edição de 2026 do festival",
+      "description": "Iron Maiden, Deep Purple, Sepultura, Cavalera, Megadeth, Crypta, Alice Cooper, Anthrax e Thy Light estão entre as diversas atrações do festival francês.",
+      "url": "https://whiplash.net/materias/news_677/374143-hellfest.html",
+      "urlToImage": "https://whiplash.net/imagens_flyers/hellfest_2026_horizontal.jpg",
+      "publishedAt": "2025-11-10T20:33:00Z",
+      "content": "O Hellfest, um dos principais festivais de metal do mundo, é realizado anualmente em Clisson, na França. Sua edição de 2026 contará com 183 bandas, sendo 85 delas estreantes no festival. O anúncio do… [+574 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Noticiabrasil.net.br"
+      },
+      "author": "Guilherme Correia",
+      "title": "Exclusiva: à Sputnik Brasil, José Dirceu comenta renovação política da esquerda e ingerência dos EUA",
+      "description": "\"Geração que fundou o PT está chegando nos 80 anos\", resume o fundador do Partido dos Trabalhadores e ex-presidente da sigla, José Dirceu.",
+      "url": "https://noticiabrasil.net.br/20251110/exclusiva-a-sputnik-brasil-jose-dirceu-comenta-renovacao-politica-do-pais-e-ingerencia-dos-eua-45060868.html",
+      "urlToImage": "https://cdn.noticiabrasil.net.br/images/sharing/article/por/45060868.jpg?450604791762807043",
+      "publishedAt": "2025-11-10T20:32:48Z",
+      "content": "\"O Brasil vai manter relações diplomáticas com a União Europeia [...], com a Rússia, vai manter com a China, com os BRICS, não vai aceitar a imposição de ninguém e nem vai tomar partido de ninguém. O… [+72 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nacion.com"
+      },
+      "author": "O Globo",
+      "title": "Murió tras seis años en prisión por un crimen que no cometió: la lucha de una madre que exige justicia",
+      "description": "Damaris Kremer pasó seis años presa por un crimen del que fue absuelta. Dos meses después murió de cáncer.",
+      "url": "https://www.nacion.com/viva/murio-tras-seis-anos-en-prision-por-un-crimen-que/PJWLVQ7MYNEW3GD6I24F5EZ674/story/",
+      "urlToImage": "https://www.nacion.com/resizer/v2/S5RSN4R2WFE6HEFEYJHBVI6RBI.png?smart=true&auth=2b809d074b01687648074668f20cc8b2c1d4c17e263b30108fc1051fee4ad7a8&width=1440",
+      "publishedAt": "2025-11-10T20:31:28Z",
+      "content": "La brasileña Damaris Vitória Kremer da Rosa murió en octubre de 2025, a los 26 años. Apenas dos meses antes, un jurado la absolvió de los delitos de homicidio e incendio por falta de pruebas. Había p… [+3443 chars]"
     }
   ]
 }
